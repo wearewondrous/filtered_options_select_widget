@@ -1,0 +1,14 @@
+{
+  "name": "WondrousLLC/filtered_options_select_widget",
+  "type": "drupal-module",
+  "description": "Creates a widget with the option to filter the available options",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/filtered_options_select_widget",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/filtered_options_select_widget",
+    "source": "http://cgit.drupalcode.org/filtered_options_select_widget"
+  },
+  "require": { }
+}

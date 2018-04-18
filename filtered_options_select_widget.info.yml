@@ -1,0 +1,5 @@
+name: filtered_options_select_widget
+type: module
+description: Creates a widget to filter the available options.
+core: 8.x
+package: Widgets
