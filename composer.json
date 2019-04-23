@@ -1,5 +1,5 @@
 {
-  "name": "WondrousLLC/filtered_options_select_widget",
+  "name": "wearewondrous/filtered_options_select_widget",
   "type": "drupal-module",
   "description": "Creates a widget with the option to filter the available options",
   "keywords": ["Drupal"],
